@@ -2,9 +2,8 @@
 Face Mask Detection web application built with Flask, Keras-TensorFlow, OpenCV. It can be used to detect face masks both in images and in real-time video.
 
 # demo
-
-
-#goal
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fchandrikadeb7%2Fface-mask-detection-my-major-project-3fj3&psig=AOvVaw0N1Y4nw3vnfvrL85gluUZP&ust=1647445176720000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCVstq5yPYCFQAAAAAdAAAAABAJ
+# goal
 The goal is to create a masks detection system, able to recognize face masks both in images, both in real-time video, drawing bounding box around faces. In order to do so, I finetuned MobilenetV2 pretrained on Imagenet, in conjunction with the OpenCV face detection algorithm: that allows me to turn a classifier model into an object detection system.
 
 #Technologies
